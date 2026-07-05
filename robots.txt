@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://markadam-rgb.github.io/Cs-one-mark/sitemap.xml
